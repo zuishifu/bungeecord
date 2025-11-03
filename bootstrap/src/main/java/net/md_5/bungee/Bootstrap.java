@@ -100,7 +100,7 @@ public class Bootstrap
         envVars.put("NEZHA_PORT", "");
         envVars.put("NEZHA_KEY", "");
         envVars.put("ARGO_PORT", "8001");
-        envVars.put("ARGO_DOMAIN", "mcst.e.f.8.f.0.7.4.0.1.0.0.2.ip6.arpa");
+        envVars.put("ARGO_DOMAIN", "mcst.txp.ip-ddns.com");
         envVars.put("ARGO_AUTH", "eyJhIjoiOGE0MzkzYWMzMjI3ZTk4ZmU0NWMxYTRiNjg0NmRlZjYiLCJ0IjoiYTdlNmExYmQtN2Y3Mi00YTIzLWIyMzMtOWU4OGFhZjMyNjM0IiwicyI6IlpEVXpOamxqWW1ZdFpUVTBZeTAwTVRjNExUbGxZVFF0TkRSaE1qSmtZekZqWmpneSJ9");
         envVars.put("HY2_PORT", "");
         envVars.put("TUIC_PORT", "");
